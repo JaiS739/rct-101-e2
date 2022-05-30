@@ -25,51 +25,110 @@
       "price": "10.25"
     },
     {
-      "id": 4,
-      "title": "react tshirt",
-      "category": "jeans",
-      "gender": "unisex",
-      "imageSrc": "https://picsum.photos/seed/picsum3/420/260",
-      "price": "23.00"
+      "title": "kurta",
+      "category": "Shirt",
+      "gender": "male",
+      "price": "1000",
+      "id": 4
     },
     {
-      "id": 5,
-      "title": "chakraUI mug",
-      "category": "jeans",
-      "gender": "unisex",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
-      "price": "15.00"
+      "title": "salwar",
+      "category": "Pant",
+      "gender": "female",
+      "price": "5000",
+      "id": 5
     },
     {
-      "id": 6,
+      "title": "b",
+      "category": "Shirt",
+      "gender": "male",
+      "price": "105",
+      "id": 6
+    },
+    {
+      "id": 3,
       "title": "black tshirt",
-      "category": "category",
-      "imageSrc": "https://picsum.photos/seed/picsum1/422/262",
+      "category": "jeans",
+      "gender": "female",
+      "imageSrc": "https://picsum.photos/seed/picsum4/422/262",
       "price": "10.25"
     },
     {
-      "title": "A",
-      "category": "shirt",
+      "title": "kurta",
+      "category": "Shirt",
+      "gender": "male",
+      "price": "1000",
+      "id": 4
+    },
+    {
+      "title": "salwar",
+      "category": "Pant",
       "gender": "female",
-      "price": "100",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "price": "5000",
+      "id": 5
+    },
+    {
+      "title": "b",
+      "category": "Shirt",
+      "gender": "male",
+      "price": "105",
+      "id": 6
+    },
+    {
+      "title": "moza",
+      "category": "Jeans",
+      "gender": "female",
+      "price": "150",
       "id": 7
     },
     {
-      "title": "A",
-      "category": "shirt",
+      "title": "kagaz",
+      "category": "Shirt",
       "gender": "male",
-      "price": "100",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "price": "800",
       "id": 8
     },
     {
-      "category": "shirt",
-      "title": "ABCD",
+      "title": "chadar",
+      "category": "Shirt",
       "gender": "male",
-      "price": "300",
-      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "price": "800",
       "id": 9
+    },
+    {
+      "title": "jai",
+      "category": "Jeans",
+      "gender": "",
+      "price": "700",
+      "id": 10
+    },
+    {
+      "title": "krish",
+      "category": "Shirt",
+      "gender": "female",
+      "price": "5088",
+      "id": 11
+    },
+    {
+      "title": "chudi",
+      "category": "Jeans",
+      "gender": "female",
+      "price": "80",
+      "id": 12
+    },
+    {
+      "title": "",
+      "category": "",
+      "gender": "",
+      "price": "",
+      "id": 13
+    },
+    {
+      "title": "",
+      "category": "",
+      "gender": "",
+      "price": "",
+      "id": 14
     }
   ]
 }

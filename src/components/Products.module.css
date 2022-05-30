@@ -1,0 +1,36 @@
+.flexy {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 90%;
+  border: 1px solid red;
+  justify-content: space-between;
+  margin: auto;
+  gap: 15px;
+}
+
+.flexy > div {
+  border: 1px blue solid;
+}
+.flexy > div > img {
+  width: 100%;
+}
+
+.content1 {
+  display: flex;
+  padding: 0 10px;
+  justify-content: space-between;
+}
+
+.content2 {
+  text-align: center;
+}
+
+.content2 > h2 {
+  color: skyblue;
+}
+
+.content2h3 {
+  background-color: skyblue;
+  padding: 0 5px;
+  border-radius: 7px;
+}
